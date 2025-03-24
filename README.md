@@ -44,6 +44,7 @@
 <p>
 
 ```
+
 import random
 class VacuumCleanerAgent:
     def __init__(self): # Initialize the agent's state (location and dirt status)
@@ -92,20 +93,14 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
+
 ```
 
 </p>
 <h3>OUTPUT</h3>
 <p>
   
-![c8a976be9d12544697070e07389410ad_Screenshot%202025-03-24%20090349](https://github.com/user-attachments/assets/3ec980db-ba5f-425c-be66-e88e7ce76ad6)
-
-```
-Alert healthcare provider: High heart rate detected
-Alert healthcare provider: High blood pressure detected
-Recommend rest and monitor temperature
-No specific action needed
-```
+![f93f701d4963d680b3bcf89515eb1fb7_Screenshot%202025-03-24%20090738](https://github.com/user-attachments/assets/35863db4-e529-408f-bfd6-16766e06f4de)
 
 </p>
 <h3>RESULT:</h3>
